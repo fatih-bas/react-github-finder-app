@@ -10,6 +10,8 @@
 - `Github API`
 - `Axios`
 
+### Live [Demo](https://react-github-finder-384255xan-fatih-bas.vercel.app/)
+ 
 
 ### Installation
 1. Clone the repository and install the dependencies 
