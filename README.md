@@ -8,11 +8,18 @@
 - `TailwindCSS`
 - `Daisy-UI`
 - `Github API`
-- `axios`
+- `Axios`
 
 
 ### Installation
-1. Clone the repository and install the dependencies. After installing all dependencies you can run the server by following command:
+1. Clone the repository and install the dependencies 
+2. Add to your github access token to .env file 
+
 ```bash
 npm install 
 ```
+3. After installing all dependencies you can run the app by following command:
+```bash
+npm start
+```
+
